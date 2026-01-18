@@ -7,14 +7,16 @@
 ## 📸 Project Preview
 
 ### 🔹 Live Prototype Image
+![6c14e73f-f220-45d1-8375-544883770824](https://github.com/user-attachments/assets/6a46519e-329e-4610-8831-823bd40a01c7)
 
 
-![Obstacle Avoiding Robot](assets/robot.jpg)
 
 
 ### 🎥 Working Demo (1‑Minute Video)
 
-[▶ Watch the Demo Video](Project on terrace.mp4)
+https://github.com/user-attachments/assets/1788673d-18e4-4bc9-a5ee-71fd96f200cd
+
+
 
 ---
 
