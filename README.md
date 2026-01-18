@@ -19,7 +19,7 @@
 > *(GitHub supports embedded videos via links or uploaded assets)*
 
 ```md
-[▶ Watch the Demo Video](assets/demo.mp4)
+[▶ Watch the Demo Video](Project on terrace.mp4)
 ```
 
 ---
