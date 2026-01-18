@@ -8,19 +8,13 @@
 
 ### 🔹 Live Prototype Image
 
-> *(Replace the path below with your actual image file)*
 
-```md
 ![Obstacle Avoiding Robot](assets/robot.jpg)
-```
+
 
 ### 🎥 Working Demo (1‑Minute Video)
 
-> *(GitHub supports embedded videos via links or uploaded assets)*
-
-```md
 [▶ Watch the Demo Video](Project on terrace.mp4)
-```
 
 ---
 
